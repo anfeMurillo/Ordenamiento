@@ -119,7 +119,7 @@ def main():
             heap_sort(empleados, "edad")
             index = binary_search(empleados, "edad", edad)
             if index != -1:
-                print("Empleado encontrado:", empleados[index])
+                print("Empleado encontrado!:", empleados[index])
             else:
                 print("Empleado no encontrado")
         elif choice == "5":
