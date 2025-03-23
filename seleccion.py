@@ -1,13 +1,13 @@
 A = [
-    {"name": "Camila", "code": 1},
-    {"name": "Daniel", "code": 2},
+    {"name": "Camila", "code": 5},
+    {"name": "Daniel", "code": 9},
     {"name": "Sofía", "code": 3},
     {"name": "Juan", "code": 4},
     {"name": "Valentina", "code": 5},
-    {"name": "Carlos", "code": 6},
+    {"name": "Carlos", "code": 2},
     {"name": "Isabella", "code": 7},
     {"name": "Andrés", "code": 8},
-    {"name": "Mariana", "code": 9},
+    {"name": "Mariana", "code": 1},
     {"name": "Felipe", "code": 10}
 ]
 
